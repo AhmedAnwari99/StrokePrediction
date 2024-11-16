@@ -1,4 +1,5 @@
-Heart Disease Prediction Using Random Forest Models
+**Heart Disease Prediction Using Random Forest Models**
+
 This project applies Random Forest Regressor and Random Forest Classifier models to predict heart disease using the Cleveland Heart Disease Dataset. The primary goal was to assess the performance of these models under various parameter settings and compare their effectiveness using different evaluation metrics.
 
 Dataset
