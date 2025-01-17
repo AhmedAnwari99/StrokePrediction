@@ -45,23 +45,8 @@ Evaluation:
 
 Evaluated model performance using appropriate metrics.
 Visualized feature importance to understand which features contribute most to predictions.
-Results
 
-Regression Model
-Best Parameters: Found optimal parameters for n_estimators and max_depth.
-Performance:
-MAE: X.XX
-MSE: Y.YY
-R² Score: Z.ZZ
 
-Classification Model
-Best Parameters: Found optimal parameters for n_estimators and max_features.
-Performance:
-Accuracy: XX%
-Precision: XX%
-Recall: XX%
-F1 Score: XX%
-ROC-AUC Score: XX%
 
 **Key Insights**
 Random Forest Classifier achieved better results in binary classification tasks, indicating its suitability for predicting the presence of heart disease.
